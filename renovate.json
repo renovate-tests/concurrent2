@@ -1,7 +1,7 @@
 {
   "separateMinorPatch": true,
   "dependencyDashboard": true,
-  "prConcurrentLimit": 5,
-  "branchConcurrentLimit": 5,
+  "prConcurrentLimit": 6,
+  "branchConcurrentLimit": 6,
   "separateMultipleMajor": true
 }
