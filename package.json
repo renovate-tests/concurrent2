@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "chalk": "1.0.0",
-    "lodash": "3.0.0",
+    "lodash": "3.0.1",
     "left-pad": "1.0.0"
   }
 }
