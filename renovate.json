@@ -2,7 +2,7 @@
   "prCreation": "not-pending",
   "separateMinorPatch": true,
   "dependencyDashboard": true,
-  "prConcurrentLimit": 2,
-  "branchConcurrentLimit": 3,
+  "prConcurrentLimit": 3,
+  "branchConcurrentLimit": 4,
   "separateMultipleMajor": true
 }
