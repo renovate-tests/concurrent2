@@ -1,4 +1,6 @@
 {
   "prCreation": "not-pending",
+  "separateMinorPatch": true,
+  "dependencyDashboard": true,
   "separateMultipleMajor": true
 }
